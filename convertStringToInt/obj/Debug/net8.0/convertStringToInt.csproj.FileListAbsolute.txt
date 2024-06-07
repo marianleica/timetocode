@@ -1,0 +1,14 @@
+/Users/marianleica/Build/tmp/convertStringToInt/obj/Debug/net8.0/convertStringToInt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marianleica/Build/tmp/convertStringToInt/obj/Debug/net8.0/convertStringToInt.AssemblyInfoInputs.cache
+/Users/marianleica/Build/tmp/convertStringToInt/obj/Debug/net8.0/convertStringToInt.AssemblyInfo.cs
+/Users/marianleica/Build/tmp/convertStringToInt/obj/Debug/net8.0/convertStringToInt.csproj.CoreCompileInputs.cache
+/Users/marianleica/Build/tmp/convertStringToInt/bin/Debug/net8.0/convertStringToInt
+/Users/marianleica/Build/tmp/convertStringToInt/bin/Debug/net8.0/convertStringToInt.deps.json
+/Users/marianleica/Build/tmp/convertStringToInt/bin/Debug/net8.0/convertStringToInt.runtimeconfig.json
+/Users/marianleica/Build/tmp/convertStringToInt/bin/Debug/net8.0/convertStringToInt.dll
+/Users/marianleica/Build/tmp/convertStringToInt/bin/Debug/net8.0/convertStringToInt.pdb
+/Users/marianleica/Build/tmp/convertStringToInt/obj/Debug/net8.0/convertStringToInt.dll
+/Users/marianleica/Build/tmp/convertStringToInt/obj/Debug/net8.0/refint/convertStringToInt.dll
+/Users/marianleica/Build/tmp/convertStringToInt/obj/Debug/net8.0/convertStringToInt.pdb
+/Users/marianleica/Build/tmp/convertStringToInt/obj/Debug/net8.0/convertStringToInt.genruntimeconfig.cache
+/Users/marianleica/Build/tmp/convertStringToInt/obj/Debug/net8.0/ref/convertStringToInt.dll
