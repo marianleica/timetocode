@@ -1,0 +1,14 @@
+/Users/marianleica/Build/tmp/csharp/bin/Debug/net8.0/csharp
+/Users/marianleica/Build/tmp/csharp/bin/Debug/net8.0/csharp.deps.json
+/Users/marianleica/Build/tmp/csharp/bin/Debug/net8.0/csharp.runtimeconfig.json
+/Users/marianleica/Build/tmp/csharp/bin/Debug/net8.0/csharp.dll
+/Users/marianleica/Build/tmp/csharp/bin/Debug/net8.0/csharp.pdb
+/Users/marianleica/Build/tmp/csharp/obj/Debug/net8.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marianleica/Build/tmp/csharp/obj/Debug/net8.0/csharp.AssemblyInfoInputs.cache
+/Users/marianleica/Build/tmp/csharp/obj/Debug/net8.0/csharp.AssemblyInfo.cs
+/Users/marianleica/Build/tmp/csharp/obj/Debug/net8.0/csharp.csproj.CoreCompileInputs.cache
+/Users/marianleica/Build/tmp/csharp/obj/Debug/net8.0/csharp.dll
+/Users/marianleica/Build/tmp/csharp/obj/Debug/net8.0/refint/csharp.dll
+/Users/marianleica/Build/tmp/csharp/obj/Debug/net8.0/csharp.pdb
+/Users/marianleica/Build/tmp/csharp/obj/Debug/net8.0/csharp.genruntimeconfig.cache
+/Users/marianleica/Build/tmp/csharp/obj/Debug/net8.0/ref/csharp.dll
