@@ -1,0 +1,14 @@
+C:\Users\Marian\dev\newValueToArray\obj\Debug\net8.0\newValueToArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marian\dev\newValueToArray\obj\Debug\net8.0\newValueToArray.AssemblyInfoInputs.cache
+C:\Users\Marian\dev\newValueToArray\obj\Debug\net8.0\newValueToArray.AssemblyInfo.cs
+C:\Users\Marian\dev\newValueToArray\obj\Debug\net8.0\newValueToArray.csproj.CoreCompileInputs.cache
+C:\Users\Marian\dev\newValueToArray\bin\Debug\net8.0\newValueToArray.exe
+C:\Users\Marian\dev\newValueToArray\bin\Debug\net8.0\newValueToArray.deps.json
+C:\Users\Marian\dev\newValueToArray\bin\Debug\net8.0\newValueToArray.runtimeconfig.json
+C:\Users\Marian\dev\newValueToArray\bin\Debug\net8.0\newValueToArray.dll
+C:\Users\Marian\dev\newValueToArray\bin\Debug\net8.0\newValueToArray.pdb
+C:\Users\Marian\dev\newValueToArray\obj\Debug\net8.0\newValueToArray.dll
+C:\Users\Marian\dev\newValueToArray\obj\Debug\net8.0\refint\newValueToArray.dll
+C:\Users\Marian\dev\newValueToArray\obj\Debug\net8.0\newValueToArray.pdb
+C:\Users\Marian\dev\newValueToArray\obj\Debug\net8.0\newValueToArray.genruntimeconfig.cache
+C:\Users\Marian\dev\newValueToArray\obj\Debug\net8.0\ref\newValueToArray.dll

@@ -1,0 +1,4 @@
+C:\Users\Marian\dev\binarySearch\obj\Debug\net8.0\binarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marian\dev\binarySearch\obj\Debug\net8.0\binarySearch.AssemblyInfoInputs.cache
+C:\Users\Marian\dev\binarySearch\obj\Debug\net8.0\binarySearch.AssemblyInfo.cs
+C:\Users\Marian\dev\binarySearch\obj\Debug\net8.0\binarySearch.csproj.CoreCompileInputs.cache

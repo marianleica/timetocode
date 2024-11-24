@@ -1,0 +1,14 @@
+C:\Users\Marian\dev\linearSearch\obj\Debug\net8.0\linearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marian\dev\linearSearch\obj\Debug\net8.0\linearSearch.AssemblyInfoInputs.cache
+C:\Users\Marian\dev\linearSearch\obj\Debug\net8.0\linearSearch.AssemblyInfo.cs
+C:\Users\Marian\dev\linearSearch\obj\Debug\net8.0\linearSearch.csproj.CoreCompileInputs.cache
+C:\Users\Marian\dev\linearSearch\bin\Debug\net8.0\linearSearch.exe
+C:\Users\Marian\dev\linearSearch\bin\Debug\net8.0\linearSearch.deps.json
+C:\Users\Marian\dev\linearSearch\bin\Debug\net8.0\linearSearch.runtimeconfig.json
+C:\Users\Marian\dev\linearSearch\bin\Debug\net8.0\linearSearch.dll
+C:\Users\Marian\dev\linearSearch\bin\Debug\net8.0\linearSearch.pdb
+C:\Users\Marian\dev\linearSearch\obj\Debug\net8.0\linearSearch.dll
+C:\Users\Marian\dev\linearSearch\obj\Debug\net8.0\refint\linearSearch.dll
+C:\Users\Marian\dev\linearSearch\obj\Debug\net8.0\linearSearch.pdb
+C:\Users\Marian\dev\linearSearch\obj\Debug\net8.0\linearSearch.genruntimeconfig.cache
+C:\Users\Marian\dev\linearSearch\obj\Debug\net8.0\ref\linearSearch.dll

@@ -1,0 +1,14 @@
+C:\Users\Marian\dev\checkEvenOdd\obj\Debug\net8.0\checkEvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marian\dev\checkEvenOdd\obj\Debug\net8.0\checkEvenOdd.AssemblyInfoInputs.cache
+C:\Users\Marian\dev\checkEvenOdd\obj\Debug\net8.0\checkEvenOdd.AssemblyInfo.cs
+C:\Users\Marian\dev\checkEvenOdd\obj\Debug\net8.0\checkEvenOdd.csproj.CoreCompileInputs.cache
+C:\Users\Marian\dev\checkEvenOdd\bin\Debug\net8.0\checkEvenOdd.exe
+C:\Users\Marian\dev\checkEvenOdd\bin\Debug\net8.0\checkEvenOdd.deps.json
+C:\Users\Marian\dev\checkEvenOdd\bin\Debug\net8.0\checkEvenOdd.runtimeconfig.json
+C:\Users\Marian\dev\checkEvenOdd\bin\Debug\net8.0\checkEvenOdd.dll
+C:\Users\Marian\dev\checkEvenOdd\bin\Debug\net8.0\checkEvenOdd.pdb
+C:\Users\Marian\dev\checkEvenOdd\obj\Debug\net8.0\checkEvenOdd.dll
+C:\Users\Marian\dev\checkEvenOdd\obj\Debug\net8.0\refint\checkEvenOdd.dll
+C:\Users\Marian\dev\checkEvenOdd\obj\Debug\net8.0\checkEvenOdd.pdb
+C:\Users\Marian\dev\checkEvenOdd\obj\Debug\net8.0\checkEvenOdd.genruntimeconfig.cache
+C:\Users\Marian\dev\checkEvenOdd\obj\Debug\net8.0\ref\checkEvenOdd.dll
