@@ -1,0 +1,15 @@
+C:\MyScripts\timetocode\runningsumof1darray\obj\Debug\net9.0\runningsumof1darray.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyScripts\timetocode\runningsumof1darray\obj\Debug\net9.0\runningsumof1darray.AssemblyInfoInputs.cache
+C:\MyScripts\timetocode\runningsumof1darray\obj\Debug\net9.0\runningsumof1darray.AssemblyInfo.cs
+C:\MyScripts\timetocode\runningsumof1darray\obj\Debug\net9.0\runningsumof1darray.csproj.CoreCompileInputs.cache
+C:\MyScripts\timetocode\runningsumof1darray\obj\Debug\net9.0\runningsumof1darray.sourcelink.json
+C:\MyScripts\timetocode\runningsumof1darray\bin\Debug\net9.0\runningsumof1darray.exe
+C:\MyScripts\timetocode\runningsumof1darray\bin\Debug\net9.0\runningsumof1darray.deps.json
+C:\MyScripts\timetocode\runningsumof1darray\bin\Debug\net9.0\runningsumof1darray.runtimeconfig.json
+C:\MyScripts\timetocode\runningsumof1darray\bin\Debug\net9.0\runningsumof1darray.dll
+C:\MyScripts\timetocode\runningsumof1darray\bin\Debug\net9.0\runningsumof1darray.pdb
+C:\MyScripts\timetocode\runningsumof1darray\obj\Debug\net9.0\runningsumof1darray.dll
+C:\MyScripts\timetocode\runningsumof1darray\obj\Debug\net9.0\refint\runningsumof1darray.dll
+C:\MyScripts\timetocode\runningsumof1darray\obj\Debug\net9.0\runningsumof1darray.pdb
+C:\MyScripts\timetocode\runningsumof1darray\obj\Debug\net9.0\runningsumof1darray.genruntimeconfig.cache
+C:\MyScripts\timetocode\runningsumof1darray\obj\Debug\net9.0\ref\runningsumof1darray.dll
