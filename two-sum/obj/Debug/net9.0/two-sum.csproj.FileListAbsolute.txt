@@ -1,0 +1,15 @@
+C:\MyScripts\timetocode\two-sum\obj\Debug\net9.0\two-sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyScripts\timetocode\two-sum\obj\Debug\net9.0\two-sum.AssemblyInfoInputs.cache
+C:\MyScripts\timetocode\two-sum\obj\Debug\net9.0\two-sum.AssemblyInfo.cs
+C:\MyScripts\timetocode\two-sum\obj\Debug\net9.0\two-sum.csproj.CoreCompileInputs.cache
+C:\MyScripts\timetocode\two-sum\obj\Debug\net9.0\two-sum.sourcelink.json
+C:\MyScripts\timetocode\two-sum\bin\Debug\net9.0\two-sum.exe
+C:\MyScripts\timetocode\two-sum\bin\Debug\net9.0\two-sum.deps.json
+C:\MyScripts\timetocode\two-sum\bin\Debug\net9.0\two-sum.runtimeconfig.json
+C:\MyScripts\timetocode\two-sum\bin\Debug\net9.0\two-sum.dll
+C:\MyScripts\timetocode\two-sum\bin\Debug\net9.0\two-sum.pdb
+C:\MyScripts\timetocode\two-sum\obj\Debug\net9.0\two-sum.dll
+C:\MyScripts\timetocode\two-sum\obj\Debug\net9.0\refint\two-sum.dll
+C:\MyScripts\timetocode\two-sum\obj\Debug\net9.0\two-sum.pdb
+C:\MyScripts\timetocode\two-sum\obj\Debug\net9.0\two-sum.genruntimeconfig.cache
+C:\MyScripts\timetocode\two-sum\obj\Debug\net9.0\ref\two-sum.dll
