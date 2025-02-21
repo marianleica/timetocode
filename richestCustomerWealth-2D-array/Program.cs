@@ -73,3 +73,6 @@ namespace richestCustomerWealth_2D_array
         }
     }
 }
+
+// Time complexity: O(n x m)
+// Space complexity: O(1)
