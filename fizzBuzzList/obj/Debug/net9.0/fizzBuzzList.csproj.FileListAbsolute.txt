@@ -1,0 +1,15 @@
+C:\MyScripts\timetocode\fizzBuzzList\bin\Debug\net9.0\fizzBuzzList.exe
+C:\MyScripts\timetocode\fizzBuzzList\bin\Debug\net9.0\fizzBuzzList.deps.json
+C:\MyScripts\timetocode\fizzBuzzList\bin\Debug\net9.0\fizzBuzzList.runtimeconfig.json
+C:\MyScripts\timetocode\fizzBuzzList\bin\Debug\net9.0\fizzBuzzList.dll
+C:\MyScripts\timetocode\fizzBuzzList\bin\Debug\net9.0\fizzBuzzList.pdb
+C:\MyScripts\timetocode\fizzBuzzList\obj\Debug\net9.0\fizzBuzzList.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyScripts\timetocode\fizzBuzzList\obj\Debug\net9.0\fizzBuzzList.AssemblyInfoInputs.cache
+C:\MyScripts\timetocode\fizzBuzzList\obj\Debug\net9.0\fizzBuzzList.AssemblyInfo.cs
+C:\MyScripts\timetocode\fizzBuzzList\obj\Debug\net9.0\fizzBuzzList.csproj.CoreCompileInputs.cache
+C:\MyScripts\timetocode\fizzBuzzList\obj\Debug\net9.0\fizzBuzzList.sourcelink.json
+C:\MyScripts\timetocode\fizzBuzzList\obj\Debug\net9.0\fizzBuzzList.dll
+C:\MyScripts\timetocode\fizzBuzzList\obj\Debug\net9.0\refint\fizzBuzzList.dll
+C:\MyScripts\timetocode\fizzBuzzList\obj\Debug\net9.0\fizzBuzzList.pdb
+C:\MyScripts\timetocode\fizzBuzzList\obj\Debug\net9.0\fizzBuzzList.genruntimeconfig.cache
+C:\MyScripts\timetocode\fizzBuzzList\obj\Debug\net9.0\ref\fizzBuzzList.dll
