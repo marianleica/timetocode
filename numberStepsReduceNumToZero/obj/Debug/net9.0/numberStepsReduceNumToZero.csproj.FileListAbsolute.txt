@@ -1,0 +1,15 @@
+C:\MyScripts\timetocode\numberStepsReduceNumToZero\bin\Debug\net9.0\numberStepsReduceNumToZero.exe
+C:\MyScripts\timetocode\numberStepsReduceNumToZero\bin\Debug\net9.0\numberStepsReduceNumToZero.deps.json
+C:\MyScripts\timetocode\numberStepsReduceNumToZero\bin\Debug\net9.0\numberStepsReduceNumToZero.runtimeconfig.json
+C:\MyScripts\timetocode\numberStepsReduceNumToZero\bin\Debug\net9.0\numberStepsReduceNumToZero.dll
+C:\MyScripts\timetocode\numberStepsReduceNumToZero\bin\Debug\net9.0\numberStepsReduceNumToZero.pdb
+C:\MyScripts\timetocode\numberStepsReduceNumToZero\obj\Debug\net9.0\numberStepsReduceNumToZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyScripts\timetocode\numberStepsReduceNumToZero\obj\Debug\net9.0\numberStepsReduceNumToZero.AssemblyInfoInputs.cache
+C:\MyScripts\timetocode\numberStepsReduceNumToZero\obj\Debug\net9.0\numberStepsReduceNumToZero.AssemblyInfo.cs
+C:\MyScripts\timetocode\numberStepsReduceNumToZero\obj\Debug\net9.0\numberStepsReduceNumToZero.csproj.CoreCompileInputs.cache
+C:\MyScripts\timetocode\numberStepsReduceNumToZero\obj\Debug\net9.0\numberStepsReduceNumToZero.sourcelink.json
+C:\MyScripts\timetocode\numberStepsReduceNumToZero\obj\Debug\net9.0\numberStepsReduceNumToZero.dll
+C:\MyScripts\timetocode\numberStepsReduceNumToZero\obj\Debug\net9.0\refint\numberStepsReduceNumToZero.dll
+C:\MyScripts\timetocode\numberStepsReduceNumToZero\obj\Debug\net9.0\numberStepsReduceNumToZero.pdb
+C:\MyScripts\timetocode\numberStepsReduceNumToZero\obj\Debug\net9.0\numberStepsReduceNumToZero.genruntimeconfig.cache
+C:\MyScripts\timetocode\numberStepsReduceNumToZero\obj\Debug\net9.0\ref\numberStepsReduceNumToZero.dll
