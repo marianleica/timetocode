@@ -1,0 +1,5 @@
+C:\MyScripts\timetocode\middleLinkedList\obj\Debug\net9.0\middleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyScripts\timetocode\middleLinkedList\obj\Debug\net9.0\middleLinkedList.AssemblyInfoInputs.cache
+C:\MyScripts\timetocode\middleLinkedList\obj\Debug\net9.0\middleLinkedList.AssemblyInfo.cs
+C:\MyScripts\timetocode\middleLinkedList\obj\Debug\net9.0\middleLinkedList.csproj.CoreCompileInputs.cache
+C:\MyScripts\timetocode\middleLinkedList\obj\Debug\net9.0\middleLinkedList.sourcelink.json
