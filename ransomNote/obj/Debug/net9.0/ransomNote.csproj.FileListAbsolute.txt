@@ -1,0 +1,15 @@
+C:\MyScripts\timetocode\ransomNote\obj\Debug\net9.0\ransomNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyScripts\timetocode\ransomNote\obj\Debug\net9.0\ransomNote.AssemblyInfoInputs.cache
+C:\MyScripts\timetocode\ransomNote\obj\Debug\net9.0\ransomNote.AssemblyInfo.cs
+C:\MyScripts\timetocode\ransomNote\obj\Debug\net9.0\ransomNote.csproj.CoreCompileInputs.cache
+C:\MyScripts\timetocode\ransomNote\obj\Debug\net9.0\ransomNote.sourcelink.json
+C:\MyScripts\timetocode\ransomNote\bin\Debug\net9.0\ransomNote.exe
+C:\MyScripts\timetocode\ransomNote\bin\Debug\net9.0\ransomNote.deps.json
+C:\MyScripts\timetocode\ransomNote\bin\Debug\net9.0\ransomNote.runtimeconfig.json
+C:\MyScripts\timetocode\ransomNote\bin\Debug\net9.0\ransomNote.dll
+C:\MyScripts\timetocode\ransomNote\bin\Debug\net9.0\ransomNote.pdb
+C:\MyScripts\timetocode\ransomNote\obj\Debug\net9.0\ransomNote.dll
+C:\MyScripts\timetocode\ransomNote\obj\Debug\net9.0\refint\ransomNote.dll
+C:\MyScripts\timetocode\ransomNote\obj\Debug\net9.0\ransomNote.pdb
+C:\MyScripts\timetocode\ransomNote\obj\Debug\net9.0\ransomNote.genruntimeconfig.cache
+C:\MyScripts\timetocode\ransomNote\obj\Debug\net9.0\ref\ransomNote.dll
