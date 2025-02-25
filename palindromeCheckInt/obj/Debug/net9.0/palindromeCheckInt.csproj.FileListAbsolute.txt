@@ -1,0 +1,15 @@
+C:\MyScripts\timetocode\palindromeCheckInt\bin\Debug\net9.0\palindromeCheckInt.exe
+C:\MyScripts\timetocode\palindromeCheckInt\bin\Debug\net9.0\palindromeCheckInt.deps.json
+C:\MyScripts\timetocode\palindromeCheckInt\bin\Debug\net9.0\palindromeCheckInt.runtimeconfig.json
+C:\MyScripts\timetocode\palindromeCheckInt\bin\Debug\net9.0\palindromeCheckInt.dll
+C:\MyScripts\timetocode\palindromeCheckInt\bin\Debug\net9.0\palindromeCheckInt.pdb
+C:\MyScripts\timetocode\palindromeCheckInt\obj\Debug\net9.0\palindromeCheckInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyScripts\timetocode\palindromeCheckInt\obj\Debug\net9.0\palindromeCheckInt.AssemblyInfoInputs.cache
+C:\MyScripts\timetocode\palindromeCheckInt\obj\Debug\net9.0\palindromeCheckInt.AssemblyInfo.cs
+C:\MyScripts\timetocode\palindromeCheckInt\obj\Debug\net9.0\palindromeCheckInt.csproj.CoreCompileInputs.cache
+C:\MyScripts\timetocode\palindromeCheckInt\obj\Debug\net9.0\palindromeCheckInt.sourcelink.json
+C:\MyScripts\timetocode\palindromeCheckInt\obj\Debug\net9.0\palindromeCheckInt.dll
+C:\MyScripts\timetocode\palindromeCheckInt\obj\Debug\net9.0\refint\palindromeCheckInt.dll
+C:\MyScripts\timetocode\palindromeCheckInt\obj\Debug\net9.0\palindromeCheckInt.pdb
+C:\MyScripts\timetocode\palindromeCheckInt\obj\Debug\net9.0\palindromeCheckInt.genruntimeconfig.cache
+C:\MyScripts\timetocode\palindromeCheckInt\obj\Debug\net9.0\ref\palindromeCheckInt.dll
