@@ -87,4 +87,3 @@ public class Program
         Console.WriteLine($"Output: [{result[0]}, {result[1]}]");
     }
 }
-
