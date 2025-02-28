@@ -1,0 +1,15 @@
+C:\MyScripts\timetocode\pbinfo-ix\obj\Debug\net9.0\pbinfo-ix.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyScripts\timetocode\pbinfo-ix\obj\Debug\net9.0\pbinfo-ix.AssemblyInfoInputs.cache
+C:\MyScripts\timetocode\pbinfo-ix\obj\Debug\net9.0\pbinfo-ix.AssemblyInfo.cs
+C:\MyScripts\timetocode\pbinfo-ix\obj\Debug\net9.0\pbinfo-ix.csproj.CoreCompileInputs.cache
+C:\MyScripts\timetocode\pbinfo-ix\obj\Debug\net9.0\pbinfo-ix.sourcelink.json
+C:\MyScripts\timetocode\pbinfo-ix\bin\Debug\net9.0\pbinfo-ix.exe
+C:\MyScripts\timetocode\pbinfo-ix\bin\Debug\net9.0\pbinfo-ix.deps.json
+C:\MyScripts\timetocode\pbinfo-ix\bin\Debug\net9.0\pbinfo-ix.runtimeconfig.json
+C:\MyScripts\timetocode\pbinfo-ix\bin\Debug\net9.0\pbinfo-ix.dll
+C:\MyScripts\timetocode\pbinfo-ix\bin\Debug\net9.0\pbinfo-ix.pdb
+C:\MyScripts\timetocode\pbinfo-ix\obj\Debug\net9.0\pbinfo-ix.dll
+C:\MyScripts\timetocode\pbinfo-ix\obj\Debug\net9.0\refint\pbinfo-ix.dll
+C:\MyScripts\timetocode\pbinfo-ix\obj\Debug\net9.0\pbinfo-ix.pdb
+C:\MyScripts\timetocode\pbinfo-ix\obj\Debug\net9.0\pbinfo-ix.genruntimeconfig.cache
+C:\MyScripts\timetocode\pbinfo-ix\obj\Debug\net9.0\ref\pbinfo-ix.dll
