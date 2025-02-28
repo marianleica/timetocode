@@ -1,0 +1,15 @@
+C:\MyScripts\timetocode\removeDuplicatesFromSortedArray\bin\Debug\net9.0\removeDuplicatesFromSortedArray.exe
+C:\MyScripts\timetocode\removeDuplicatesFromSortedArray\bin\Debug\net9.0\removeDuplicatesFromSortedArray.deps.json
+C:\MyScripts\timetocode\removeDuplicatesFromSortedArray\bin\Debug\net9.0\removeDuplicatesFromSortedArray.runtimeconfig.json
+C:\MyScripts\timetocode\removeDuplicatesFromSortedArray\bin\Debug\net9.0\removeDuplicatesFromSortedArray.dll
+C:\MyScripts\timetocode\removeDuplicatesFromSortedArray\bin\Debug\net9.0\removeDuplicatesFromSortedArray.pdb
+C:\MyScripts\timetocode\removeDuplicatesFromSortedArray\obj\Debug\net9.0\removeDuplicatesFromSortedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyScripts\timetocode\removeDuplicatesFromSortedArray\obj\Debug\net9.0\removeDuplicatesFromSortedArray.AssemblyInfoInputs.cache
+C:\MyScripts\timetocode\removeDuplicatesFromSortedArray\obj\Debug\net9.0\removeDuplicatesFromSortedArray.AssemblyInfo.cs
+C:\MyScripts\timetocode\removeDuplicatesFromSortedArray\obj\Debug\net9.0\removeDuplicatesFromSortedArray.csproj.CoreCompileInputs.cache
+C:\MyScripts\timetocode\removeDuplicatesFromSortedArray\obj\Debug\net9.0\removeDuplicatesFromSortedArray.sourcelink.json
+C:\MyScripts\timetocode\removeDuplicatesFromSortedArray\obj\Debug\net9.0\removeDuplicatesFromSortedArray.dll
+C:\MyScripts\timetocode\removeDuplicatesFromSortedArray\obj\Debug\net9.0\refint\removeDuplicatesFromSortedArray.dll
+C:\MyScripts\timetocode\removeDuplicatesFromSortedArray\obj\Debug\net9.0\removeDuplicatesFromSortedArray.pdb
+C:\MyScripts\timetocode\removeDuplicatesFromSortedArray\obj\Debug\net9.0\removeDuplicatesFromSortedArray.genruntimeconfig.cache
+C:\MyScripts\timetocode\removeDuplicatesFromSortedArray\obj\Debug\net9.0\ref\removeDuplicatesFromSortedArray.dll
