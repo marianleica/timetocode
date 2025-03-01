@@ -1,0 +1,15 @@
+C:\MyScripts\timetocode\sumArray\bin\Debug\net9.0\sumArray.exe
+C:\MyScripts\timetocode\sumArray\bin\Debug\net9.0\sumArray.deps.json
+C:\MyScripts\timetocode\sumArray\bin\Debug\net9.0\sumArray.runtimeconfig.json
+C:\MyScripts\timetocode\sumArray\bin\Debug\net9.0\sumArray.dll
+C:\MyScripts\timetocode\sumArray\bin\Debug\net9.0\sumArray.pdb
+C:\MyScripts\timetocode\sumArray\obj\Debug\net9.0\sumArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyScripts\timetocode\sumArray\obj\Debug\net9.0\sumArray.AssemblyInfoInputs.cache
+C:\MyScripts\timetocode\sumArray\obj\Debug\net9.0\sumArray.AssemblyInfo.cs
+C:\MyScripts\timetocode\sumArray\obj\Debug\net9.0\sumArray.csproj.CoreCompileInputs.cache
+C:\MyScripts\timetocode\sumArray\obj\Debug\net9.0\sumArray.sourcelink.json
+C:\MyScripts\timetocode\sumArray\obj\Debug\net9.0\sumArray.dll
+C:\MyScripts\timetocode\sumArray\obj\Debug\net9.0\refint\sumArray.dll
+C:\MyScripts\timetocode\sumArray\obj\Debug\net9.0\sumArray.pdb
+C:\MyScripts\timetocode\sumArray\obj\Debug\net9.0\sumArray.genruntimeconfig.cache
+C:\MyScripts\timetocode\sumArray\obj\Debug\net9.0\ref\sumArray.dll

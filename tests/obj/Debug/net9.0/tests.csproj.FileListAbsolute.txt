@@ -1,0 +1,15 @@
+C:\MyScripts\timetocode\tests\obj\Debug\net9.0\tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyScripts\timetocode\tests\obj\Debug\net9.0\tests.AssemblyInfoInputs.cache
+C:\MyScripts\timetocode\tests\obj\Debug\net9.0\tests.AssemblyInfo.cs
+C:\MyScripts\timetocode\tests\obj\Debug\net9.0\tests.csproj.CoreCompileInputs.cache
+C:\MyScripts\timetocode\tests\obj\Debug\net9.0\tests.sourcelink.json
+C:\MyScripts\timetocode\tests\bin\Debug\net9.0\tests.exe
+C:\MyScripts\timetocode\tests\bin\Debug\net9.0\tests.deps.json
+C:\MyScripts\timetocode\tests\bin\Debug\net9.0\tests.runtimeconfig.json
+C:\MyScripts\timetocode\tests\bin\Debug\net9.0\tests.dll
+C:\MyScripts\timetocode\tests\bin\Debug\net9.0\tests.pdb
+C:\MyScripts\timetocode\tests\obj\Debug\net9.0\tests.dll
+C:\MyScripts\timetocode\tests\obj\Debug\net9.0\refint\tests.dll
+C:\MyScripts\timetocode\tests\obj\Debug\net9.0\tests.pdb
+C:\MyScripts\timetocode\tests\obj\Debug\net9.0\tests.genruntimeconfig.cache
+C:\MyScripts\timetocode\tests\obj\Debug\net9.0\ref\tests.dll
