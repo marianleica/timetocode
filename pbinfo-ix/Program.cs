@@ -181,3 +181,20 @@ int sum = arr[4] + arr[3] + arr[2];
 
 Console.WriteLine("Suma celor mai mari 3 numere este: " + sum);
 
+Console.ReadLine("Urmatoarea solutie...");
+
+// #3610 Se dă un număr natural nenul n. Să se determine cel mai mic număr natural, mai mare sau egal decât n, care are ultimele două cifre egale cu 0.
+
+Console.WriteLine("Alege un numar natural nenul n pentru a determina cel mai mic numar natural, mai mare sau egal decat n, care are ultimele doua cifre egale cu 0: ");
+int n = Convert.ToInt32(Console.ReadLine());
+if (n % 100 == 0)
+{
+    Console.WriteLine("Numarul " + n + " are ultimele doua cifre egale cu 0");
+}
+else
+{
+    int rez = n + 100 - n % 100;
+    Console.WriteLine("Cel mai mic numar natural, mai mare sau egal decat " + n + " care are ultimele doua cifre egale cu 0 este: " + rez);
+}
+
+Console.ReadLine("Urmatoarea solutie...");
